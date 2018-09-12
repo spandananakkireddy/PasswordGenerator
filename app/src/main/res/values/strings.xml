@@ -1,0 +1,15 @@
+<resources>
+
+        <string name="app_name">passwordgenerator</string>
+        <string name="tvpass">Select Password count:</string>
+        <string name="tvpass2">Select Passwords length:</string>
+        <string name="tvlength" />
+    <string name="tvcount" />
+    <string name="tvselectedpass" />
+    <string name="btnthread">Generate Passwords (Thread)</string>
+    <string name="btnasync">Generate Passwords (Async Task)</string>
+    <string name="tvwelcome">Welcome!!</string>
+    <string name="tvpassword">Password:</string>
+
+
+</resources>
